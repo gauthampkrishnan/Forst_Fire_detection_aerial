@@ -1,1 +1,1 @@
-# Forst_Fire_detection_arial
+# Forst_Fire_detection_aerial
